@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thawley2
-- 👀 I’m interested in switching careers to become a back end programmer 
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on anything, I'm very new to this.
+- 👀 I’m in the process of switching careers to become a back end software engineer 
+- 🌱 My main focus is Ruby on Rails
+- 💞️ I’m looking to collaborate on anything, I'm still fairly new to this.
 - 📫 How to reach me, email me at tchawley2@gmail.com, [LinkedIn](https://www.linkedin.com/in/thomas-hawley-901612123/)
 
 <!---
