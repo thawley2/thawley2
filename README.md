@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thawley2
-- 👀 I’m in the process of switching careers to become a back end software engineer 
+- 👀 Former Biotechnologist now Ruby on Rails Developer 
 - 🌱 My main focus is Ruby on Rails
-- 💞️ I’m looking to collaborate on anything, I'm still fairly new to this.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me, email me at tchawley2@gmail.com, [LinkedIn](https://www.linkedin.com/in/thomas-hawley-901612123/)
 
 <!---
